@@ -2,7 +2,7 @@
 [professional](http://w.kami.vip/s/aCzFU25m)
 
 <p align="center">
-  <a target="_blank" href="http://www.wgstart.com">
+  <a target="_blank" href="http://w.kami.vip/s/aCzFU25m">
     <img src="./demo/logo.png">
   </a>
  </p>
