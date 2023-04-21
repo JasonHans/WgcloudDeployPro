@@ -1,5 +1,5 @@
 # Wgcloud
-[professional](http://w.kami.vip/s/aCzFU25m)
+[商业部署](http://w.kami.vip/s/aCzFU25m)
 
 <p align="center">
   <a target="_blank" href="http://w.kami.vip/s/aCzFU25m">
