@@ -1,5 +1,5 @@
 # Wgcloud
-http://w.kami.vip/s/CKMoz353
+http://w.kami.vip/s/aCzFU25m
 
 <p align="center">
   <a target="_blank" href="http://www.wgstart.com">
