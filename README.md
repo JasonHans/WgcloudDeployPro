@@ -1,5 +1,5 @@
 # Wgcloud
-[商业部署](http://w.kami.vip/s/lAWtO1xM)
+[商业部署指南](http://w.kami.vip/s/lAWtO1xM)
 
 <p align="center">
   <a target="_blank" href="http://w.kami.vip/s/lAWtO1xM">
