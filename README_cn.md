@@ -1,7 +1,7 @@
-[专业](http://w.kami.vip/s/aCzFU25m)
+[专业](http://w.kami.vip/s/lAWtO1xM)
 
 <p align="center">
-  <a  target="_blank" href="http://w.kami.vip/s/aCzFU25m">
+  <a  target="_blank" href="http://w.kami.vip/s/lAWtO1xM">
     <img src="./demo/logo.png">
   </a>
  </p>
