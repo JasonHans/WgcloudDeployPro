@@ -2,7 +2,7 @@
 
 <p align="center">
   <a  target="_blank" href="http://w.kami.vip/s/lAWtO1xM">
-    <img src="./demo/logo.png">
+    <img src="https://user-images.githubusercontent.com/131434608/233909906-eb421c1c-8210-446b-953c-00c685ac4ab9.png">
   </a>
  </p>
 
