@@ -7,9 +7,8 @@
   </a>
  </p>
  <p align="center">
-<video width="320" height="240" controls>
-    <source src="https://github.com/WgcloudPro/WgcloudDeployPro/releases/download/video/wgcloudPro.mp4" type="video/mp4">
-</video>
+
+<video src="https://github.com/WgcloudPro/WgcloudDeployPro/releases/download/video/wgcloudPro.mp4" controls="controls" width="500" height="300"></video>
  </p>
 
 ## WGCLOUD
