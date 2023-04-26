@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" href="http://w.kami.vip/s/lAWtO1xM">
-    <img src="./demo/logo.png">
+    <img src="https://user-images.githubusercontent.com/131434608/233909906-eb421c1c-8210-446b-953c-00c685ac4ab9.png">
   </a>
  </p>
  <p align="center">
@@ -11,7 +11,6 @@
 <video src="https://github.com/WgcloudPro/WgcloudDeployPro/releases/download/video/wgcloudPro.mp4" controls="controls" width="500" height="300"></video>
  </p>
 
-![pro](https://user-images.githubusercontent.com/131434608/233909906-eb421c1c-8210-446b-953c-00c685ac4ab9.png)
 ## WGCLOUD
 
 [中文版README](./README_cn.md)
