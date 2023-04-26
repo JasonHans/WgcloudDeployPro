@@ -6,8 +6,11 @@
     <img src="./demo/logo.png">
   </a>
  </p>
-
-
+ <p align="center">
+<video width="320" height="240" controls>
+    <source src="./demo/wgcloudPro.mp4" type="video/mp4">
+</video>
+ </p>
 
 ## WGCLOUD
 
