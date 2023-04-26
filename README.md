@@ -10,6 +10,7 @@
 
 <video src="https://github.com/WgcloudPro/WgcloudDeployPro/releases/download/video/wgcloudPro.mp4" controls="controls" width="500" height="300"></video>
  </p>
+![8e946ba471f63c7c2de3e9641e0856e](https://user-images.githubusercontent.com/131434608/234460742-c1def274-a9a0-4aa4-b46c-067e1d108b0b.png)
 
 ## WGCLOUD
 
