@@ -15,7 +15,7 @@
 
 [中文版README](./README_cn.md)
 </br>
-##Wgcloud官方自由讨论组：[前往讨论组](https://wg-tey1014.slack.com/archives/C05638FS6SZ)
+### Wgcloud官方自由讨论组：[前往讨论组](https://wg-tey1014.slack.com/archives/C05638FS6SZ)
 </br>
 如需要更多节点请github留言
 
