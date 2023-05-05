@@ -1,4 +1,4 @@
-# WgcloudPro试用
+# WgcloudPro
 [在线试用演示系统（100W授权展示）（账号：admin 密码：admin）](http://wgstart.icu/wgcloud)
 <br/>
 [前往享受官方低价购买](http://w.kami.vip/s/lAWtO1xM)
