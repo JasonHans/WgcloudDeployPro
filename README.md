@@ -1,5 +1,5 @@
 # Wgcloud
-[在线试用地址（账号：admin 密码：admin）](http://wgstart.icu/wgcloud)
+[在线试用演示系统（100W授权展示）（账号：admin 密码：admin）](http://wgstart.icu/wgcloud)
 
 <p align="center">
   <a target="_blank" href="http://w.kami.vip/s/lAWtO1xM">
