@@ -2,6 +2,7 @@
 [在线试用演示系统（100W授权展示）（账号：admin 密码：admin）](http://wgstart.icu/wgcloud)
 <br/>
 [前往享受官方低价购买](http://w.kami.vip/s/lAWtO1xM)
+<br/>限时9折优惠券（购买时输入优惠券即可）：wgcloudpro
 <br/>
 ## 我们能优惠多少？
 <br/>
