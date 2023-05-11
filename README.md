@@ -39,5 +39,4 @@
 </br>
 如需要更多节点请github留言
 
-感谢以下大佬的关注：<br/>
 [![Stargazers repo roster for @WgcloudPro/WgcloudDeployPro](https://reporoster.com/stars/WgcloudPro/WgcloudDeployPro)](https://github.com/WgcloudPro/WgcloudDeployPro/stargazers)
